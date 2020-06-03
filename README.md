@@ -13,5 +13,4 @@ Below, the best move is on the middle because the max value is on 2nd node on le
 	<img src="tic-tac-toe-tree.png"></img>
 </p>
 
-
-# Code is incomplete Yet...Stay Tuned
+In a more complex game, such as chess, it's hard to search whole game tree. However, Alpha–beta Pruning is an optimization method to the minimax algorithm that allows us to disregard some branches in the search tree, because he cuts irrelevant nodes (subtrees) in search.
